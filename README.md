@@ -7,7 +7,7 @@
 
 # Must Modify
 
-## 1.swiftype
+## 1.Swiftype
 
 This service provides the on-site search function.
 
@@ -25,7 +25,7 @@ In your swiftype engine, go to `Setup and integration` -> `Install Search`, you 
 </script>
 ```
 
-## 2.gitment
+## 2.Gitment
 
 This service provides the comment function.
 
